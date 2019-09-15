@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * Created by PhpStorm.
+ * User: Shehzad
+ * Date: 11/25/2017
+ * Time: 4:11 PM
+ */
+class Crud extends CI_Controller
+{
+    public function idex()
+}
